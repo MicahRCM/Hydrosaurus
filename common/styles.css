@@ -1967,6 +1967,10 @@ section {
     border-bottom: 3px solid #EF0031;
 }
 
+.gimme-hover:hover {
+    color:  white !important;
+}
+
 .placeholder-1 ::-webkit-input-placeholder {
     font-style: italic;
     color: #aaa;
