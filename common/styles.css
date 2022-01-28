@@ -1719,6 +1719,11 @@ section {
     width:  300px;
 }
 
+.landscape_beer {
+    width: 661px;
+    height: 400px;
+}
+
 .brdr-primary-3 {
     border: 3px solid #EF0031;
 }
