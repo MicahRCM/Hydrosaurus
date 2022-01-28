@@ -1694,6 +1694,31 @@ section {
     border: 2px solid #EF0031;
 }
 
+.imageRow {
+    width:  100%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.imageContaienr {
+    height:  800px;
+}
+
+.leftImage {
+    float: left;
+    width:  50%;
+}
+
+.rightImage {
+    float:  right;
+    width:  50%;
+}
+
+.portrait_beer {
+    height:  500px;
+    width:  300px;
+}
+
 .brdr-primary-3 {
     border: 3px solid #EF0031;
 }
