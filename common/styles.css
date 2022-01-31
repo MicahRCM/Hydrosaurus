@@ -2582,6 +2582,27 @@ ul.selecton li a.active {
     .float-left-right ul:last-child {
         float: none;
     }
+
+    .leftImage {
+        float: initial;
+        display: block;
+        width: initial;
+        margin-bottom: 20px;
+    }
+    .rightImage {
+        float: initial;
+        display: block;
+        width: initial;
+        margin-bottom: 20px;
+    }
+    .landscape_beer {
+        width: 300px;
+        height: 200px;
+        margin-bottom: 20px;
+    }
+    .imageRow {
+        margin-bottom: 0px;
+    }
 }
 
 /* ACCRODIAN */
